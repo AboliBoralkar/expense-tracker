@@ -36,6 +36,12 @@ The application updates all values instantly, providing a smooth user experience
 
 ---
 
+## Screenshot
+
+![App Screenshot](ETscreenshot.png) (ETscreenshot1.png)
+
+---
+
 ## ▶️ How to Run the Project
 
 Clone the repository:
