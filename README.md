@@ -36,9 +36,11 @@ The application updates all values instantly, providing a smooth user experience
 
 ---
 
-##  📸 Screenshot
+##  📸 Screenshots
 
-![App Screenshot] (screenshot1.png, screenshot2.png)
+![Home](screenshot1.png)
+
+![Expenses](screenshot2.png)
 
 ---
 
