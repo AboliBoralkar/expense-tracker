@@ -38,31 +38,35 @@ The application updates all values instantly, providing a smooth user experience
 
 ## Screenshot
 
-![App Screenshot](ETscreenshot.png) (ETscreenshot1.png)
+![App Screenshot](ETscreenshot.png) (ETscreenshot1.png) (ETscreenshot.png)
 
 ---
 
-git clone https://github.com/AboliBoralkar/Expense-Tracker.git
-Navigate to project folder.
-Install dependencies.
-Run the application.
-Open in browser.
+## How To Run 
+
+- git clone https://github.com/AboliBoralkar/Expense-Tracker.git
+- Navigate to project folder.
+- Install dependencies.
+- Run the application.
+- Open in browser.
 
 ---
 
 ## 🔮 Future Improvements
-Add categories (Food, Travel, Shopping)
-Store data using Local Storage
-Add charts for better visualization
-User authentication
+
+- Add categories (Food, Travel, Shopping).
+- Store data using Local Storage.
+- Add charts for better visualization.
+- User authentication.
 
 ---
 
-🙌 Author
+## 🙌 Author
 
 Aboli Boralkar
 
 GitHub: https://github.com/AboliBoralkar
 
+---
 
 ⭐ If you like this project, give it a star!
