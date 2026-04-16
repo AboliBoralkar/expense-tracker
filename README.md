@@ -42,10 +42,6 @@ The application updates all values instantly, providing a smooth user experience
 
 ---
 
-## ▶️ How to Run the Project
-
-Clone the repository:
-```bash
 git clone https://github.com/AboliBoralkar/Expense-Tracker.git
 Navigate to project folder.
 Install dependencies.
