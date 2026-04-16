@@ -42,7 +42,7 @@ The application updates all values instantly, providing a smooth user experience
 
 ---
 
-##   How To Run 
+## ⚙️  How To Run 
   
 - git clone https://github.com/AboliBoralkar/Expense-Tracker.git
 - Navigate to project folder.
