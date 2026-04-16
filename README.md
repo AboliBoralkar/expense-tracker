@@ -38,7 +38,7 @@ The application updates all values instantly, providing a smooth user experience
 
 ##  📸 Screenshot
 
-![App Screenshot](ETscreenshot.png) (ETscreenshot1.png) (ETscreenshot.png)
+![App Screenshot] (screenshot1.png, screenshot2.png)
 
 ---
 
